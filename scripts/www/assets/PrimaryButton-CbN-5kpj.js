@@ -1,0 +1,1 @@
+import{d as s,c as a,m as n,z as r,o as i,_ as m}from"./index-C-yXZlVN.js";const c=s({__name:"PrimaryButton",props:{type:{}},emits:["click"],setup(o){return(t,e)=>(i(),a("button",{class:n(["primary-button",o.type]),onClick:e[0]||(e[0]=l=>t.$emit("click"))},[r(t.$slots,"default",{},void 0)],2))}}),d=m(c,[["__scopeId","data-v-fa6f47df"]]);export{d as P};
